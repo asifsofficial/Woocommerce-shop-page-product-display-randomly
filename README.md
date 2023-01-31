@@ -1,6 +1,9 @@
 # Woocommerce shop page product display randomly
 ## Location
 ```
+functions.php
+```
+```
 // Shop page product rendomly chnage
 function random_shop_products() {
     $args = array(
